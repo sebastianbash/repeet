@@ -1,0 +1,11 @@
+{
+    "components": {},
+    "pages": {
+        "home": {
+            "title": "Inicio"
+        },
+        "404": {
+            "title": "Página no econtrada"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "components": {},
+    "pages": {
+        "home": {
+            "title": "Home"
+        },
+        "404": {
+            "title": "Page not found"
+        }
+    }
+}
